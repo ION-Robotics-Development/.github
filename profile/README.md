@@ -5,7 +5,7 @@ Welcome to the official repository of ION Robotics & Development, a dynamic team
 ## Table of Contents
 - [About ION Robotics & Development](#about-ion-robotics--development)
 - [Team Members](#team-members)
-- [Projects](#projects)
+- [Ongoing Projects](#ongoing-projects)
 - [Contact Information](#contact-information)
 
 ## About ION Robotics & Development
@@ -41,10 +41,13 @@ Meet the members of ION Robotics & Development:
    - **Role:** *Electrical Design*
    - **[LinkedIn Profile](https://www.linkedin.com/in/ege-fard-455446253/)**
 
-## Projects
+## Ongoing Projects
 
 ### Project 1: RC Ground Vehicle
-Description: *Brief description of the project, its objectives, and current status.*
+Description: *A very simple ground vehicle which can be operated by a remote controller and/or computer*
+
+### Project 2: DESIGN-101 Contest Project
+Description: *Private while contest is underway*
 
 ## Contact Information
 
