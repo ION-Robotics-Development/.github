@@ -19,27 +19,27 @@ Meet the members of ION Robotics & Development:
 1. **Deniz Işık**
    - **Department:** *Mechanical Engineering*
    - **Role:** *Software Development & Integration*
-   - **LinkedIn:** [LinkedIn Profile](#)
+   - **[LinkedIn Profile](https://www.linkedin.com/in/deniz-isik-me/)**
 
 2. **Ozan Arslan**
    - **Department:** *Mechanical Engineering*
    - **Role:** *Mechanical Design & Implementation*
-   - **LinkedIn:** [LinkedIn Profile](#)
+   - **[LinkedIn Profile](https://www.linkedin.com/in/ozan-arslan-18791a269/)**
 
 3. **Kaan Ayyıldız**
    - **Department:** *Electrical Engineering*
    - **Role:** *Electrical Design*
-   - **LinkedIn:** [LinkedIn Profile](#)
+   - **[LinkedIn Profile](https://www.linkedin.com/in/kaanayy%C4%B1ld%C4%B1z/)**
 
 4. **Berkay Alçın**
    - **Department:** *Electrical Engineering*
    - **Role:** *Electrical Design*
-   - **LinkedIn:** [LinkedIn Profile](#)
+   - **[LinkedIn Profile](https://www.linkedin.com/in/mehmet-berkay-al%C3%A7%C4%B1n-a42368246/)**
 
 5. **Ege Fard**
    - **Department:** *Electrical Engineering*
    - **Role:** *Electrical Design*
-   - **LinkedIn:** [LinkedIn Profile](#)
+   - **[LinkedIn Profile](https://www.linkedin.com/in/ege-fard-455446253/)**
 
 ## Projects
 
